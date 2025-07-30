@@ -10,32 +10,33 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 ICT Engineering student at **DA-IICT**, Gandhinagar  
-- 💻 Freelance Web Developer – building WordPress websites with a focus on performance & SEO  
-- 🎮 I love coding fun projects like the **Snake Game** and **Tetris Game**  
+- 🧩 Building logic-driven and interactive applications like **Snake** and **Tetris** using C++  
+- 🚀 Aspiring Entrepreneur with a passion for turning ideas into value  
 - 🎯 Currently exploring:
-  - **C**, **C++**, **DSA**, **JavaScript**, **React**, and frontend frameworks
-  - Video Editing (DaVinci Resolve 19).
-  - Graphic Designing.
+  - **C**, **C++**, **DSA**, and algorithmic thinking  
+  - **Video Editing** using **DaVinci Resolve 19**  
+  - **Business Mindset**, productivity systems, and real-world problem solving  
+  - **Creative Direction** and **Design Thinking**
 
 ---
 
 ## 🧠 Projects
 
-- 🐍 [Snake Game](https://github.com/YagnikPatel22/SnakeGame) – Classic snake game built with C++ and console rendering
-- 🧱 [Tetris Game](https://github.com/YagnikPatel22/TetrisGame) – Block-stacking game built with C++
+- 🐍 [Snake Game](https://github.com/YagnikPatel22/SnakeGame) – Classic snake game built with C++ and console rendering  
+- 🧱 [Tetris Game](https://github.com/YagnikPatel22/TetrisGame) – Block-stacking game built with C++  
 - 📷 [QR Code Generator](https://github.com/YagnikPatel22/QRCodeGenerator) – A C++ console-based program that creates QR codes
 
 > *More cool projects coming soon!*
 
 ---
 
-## 🛠️ Tech Stack
+## 🎬 Interests & Tools
 
-- **Languages**: `HTML`, `CSS3`, `JavaScript`, `PHP`, `C`  
-- **Frameworks/Libraries**: `jQuery`, `Bootstrap`  
-- **CMS**: `WordPress`  
-- **Tools**: `Git`, `GitHub`, `Canva`, `Filmora`, `Figma`, `DaVinci Resolve.` 
-- **SEO**: `Google Analytics`, `Search Console`, `Yoast SEO`
+- 🎥 **Video Editing**: DaVinci Resolve, Filmora  
+- 🧠 **DSA & Programming**: C, C++, Problem Solving  
+- 🧰 **Tools I Use**: Git, GitHub, Canva, Figma  
+- 💡 **Creative Skills**: Storyboarding, Design Thinking, Idea Prototyping  
+- 📈 **Business Goals**: Building scalable ideas and content with impact
 
 ---
 
@@ -50,12 +51,20 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yagnik-n-patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /> LinkedIn</a><br>
-  <a href="mailto:yagnikptl22@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /> Email</a><br>
-  <a href="https://github.com/YagnikPatel22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20" width="20" /> GitHub</a>
+  <a href="https://www.linkedin.com/in/yagnik-n-patel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:yagnikptl22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail Badge" />
+  </a>
+  <a href="https://github.com/YagnikPatel22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub Badge" />
+  </a>
+  <a href="https://x.com/theiYags" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge" alt="X (Twitter) Badge" />
+  </a>
 </p>
 
 ---
 
-*Thanks for visiting! Feel free to check out my work and drop a message if you want to collaborate.*
-
+*Thanks for visiting! I'm always open to collaboration, feedback, and building cool things together.*
