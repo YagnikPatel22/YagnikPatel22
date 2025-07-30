@@ -32,9 +32,9 @@
 
 ## 🎬 Interests & Tools
 
-- 🎥 **Video Editing**: DaVinci Resolve, Filmora  
+- 🎥 **Video Editing**: DaVinci Resolve 19, CapCut, VN 
 - 🧠 **DSA & Programming**: C, C++, Problem Solving  
-- 🧰 **Tools I Use**: Git, GitHub, Canva, Figma  
+- 🧰 **Tools I Use**: GitHub, Canva, Figma, DaVinci Resolve 19 
 - 💡 **Creative Skills**: Storyboarding, Design Thinking, Idea Prototyping  
 - 📈 **Business Goals**: Building scalable ideas and content with impact
 
