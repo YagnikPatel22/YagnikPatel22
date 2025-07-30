@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Yagnik Patel 👋</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=ICT+Engineering+Student+%7C+Tech+Enthusiast;Aspiring+Entrepreneur+%7C+DSA+%26+Editing+Nerd" alt="Typing SVG" />
-</h3>
+<h3 align="center">ICT Engineering Student | Techy</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YagnikPatel22&label=Profile%20views&color=0e75b6&style=flat" alt="YagnikPatel22" />
@@ -12,65 +10,132 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 ICT Engineering student at **DA-IICT**, Gandhinagar  
-- 🧩 Passionate about building logic-driven projects like **Snake** and **Tetris** using C++  
-- 🚀 Aspiring **Entrepreneur** with a goal to turn ideas into real-world impact  
-- 🧠 I enjoy crafting clean code, solving real problems, and building cool things
-
-### 🔍 Currently Exploring
-- 🧑‍💻 **Programming & DSA**: C, C++, Algorithmic Thinking  
-- 🎬 **Video Editing**: DaVinci Resolve 19, CapCut, VN  
-- 💼 **Business Thinking**: Productivity, Branding, Monetization  
-- 🎨 **Creative Direction**: Storyboarding, Design Systems, Prototyping
+- 🧩 Building logic-driven and interactive applications like **Snake** and **Tetris** using C++  
+- 🚀 Aspiring Entrepreneur with a passion for turning ideas into value  
+- 🎯 Currently exploring:
+  - **C**, **C++**, **DSA**, and algorithmic thinking  
+  - **Video Editing** using **DaVinci Resolve 19**  
+  - **Business Mindset**, productivity systems, and real-world problem solving  
+  - **Creative Direction** and **Design Thinking**
 
 ---
 
 ## 🧠 Projects
 
-| Project | Description |
-|--------|-------------|
-| 🐍 [**Snake Game**](https://github.com/YagnikPatel22/SnakeGame) | Classic console snake game built in C++ |
-| 🧱 [**Tetris Game**](https://github.com/YagnikPatel22/TetrisGame) | A block-stacking terminal game in C++ |
-| 📷 [**QR Code Generator**](https://github.com/YagnikPatel22/QRCodeGenerator) | A C++ console program to generate QR codes |
+- 🐍 [Snake Game](https://github.com/YagnikPatel22/SnakeGame) – Classic snake game built with C++ and console rendering  
+- 🧱 [Tetris Game](https://github.com/YagnikPatel22/TetrisGame) – Block-stacking game built with C++  
+- 📷 [QR Code Generator](https://github.com/YagnikPatel22/QRCodeGenerator) – A C++ console-based program that creates QR codes
 
-> *✨ More cool projects coming soon...*
+> *More cool projects coming soon!*
 
 ---
 
-## 🧰 Tools, Interests & Workflow
+## 🎬 Interests & Tools
 
-- 🎥 **Editing Tools**: DaVinci Resolve 19, CapCut, VN  
-- 🧠 **Problem Solving**: C, C++, STL, DSA  
-- 🧰 **Toolbox**: GitHub, Canva, Figma, Notion  
-- 🧪 **Workflow**: Idea → Plan → Prototype → Polish → Publish  
-- 💼 **Mindset**: Learn. Build. Share. Repeat.
+- 🎥 **Video Editing**: DaVinci Resolve 19, CapCut, VN 
+- 🧠 **DSA & Programming**: C, C++, Problem Solving  
+- 🧰 **Tools I Use**: GitHub, Canva, Figma, DaVinci Resolve 19 
+- 💡 **Creative Skills**: Storyboarding, Design Thinking, Idea Prototyping  
+- 📈 **Business Goals**: Building scalable ideas and content with impact
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YagnikPatel22&show_icons=true&theme=radical&hide=stars&count_private=true" alt="Yagnik GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YagnikPatel22&show_icons=true&theme=radical" alt="YagnikPatel22" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/yagnik-n-patel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:yagnikptl22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail Badge" />
   </a>
   <a href="https://github.com/YagnikPatel22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub Badge" />
   </a>
   <a href="https://x.com/theiYags" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge" alt="X (Twitter) Badge" />
   </a>
 </p>
 
 ---
 
-<p align="center"><em>Thanks for visiting! Let's build something awesome together 🚀</em></p>
+*Thanks for visiting! I'm always open to collaboration, feedback, and building cool things together.*<h1 align="center">Hi, I'm Yagnik Patel 👋</h1>
+<h3 align="center">ICT Engineering Student | Techy</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YagnikPatel22&label=Profile%20views&color=0e75b6&style=flat" alt="YagnikPatel22" />
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 ICT Engineering student at **DA-IICT**, Gandhinagar  
+- 🧩 Building logic-driven and interactive applications like **Snake** and **Tetris** using C++  
+- 🚀 Aspiring Entrepreneur with a passion for turning ideas into value  
+- 🎯 Currently exploring:
+  - **C**, **C++**, **DSA**, and algorithmic thinking  
+  - **Video Editing** using **DaVinci Resolve 19**  
+  - **Business Mindset**, productivity systems, and real-world problem solving  
+  - **Creative Direction** and **Design Thinking**
+
+---
+
+## 🧠 Projects
+
+- 🐍 [Snake Game](https://github.com/YagnikPatel22/SnakeGame) – Classic snake game built with C++ and console rendering  
+- 🧱 [Tetris Game](https://github.com/YagnikPatel22/TetrisGame) – Block-stacking game built with C++  
+- 📷 [QR Code Generator](https://github.com/YagnikPatel22/QRCodeGenerator) – A C++ console-based program that creates QR codes
+
+> *More cool projects coming soon!*
+
+---
+
+## 🎬 Interests & Tools
+
+- 🎥 **Video Editing**: DaVinci Resolve 19, CapCut, VN 
+- 🧠 **DSA & Programming**: C, C++, Problem Solving  
+- 🧰 **Tools I Use**: GitHub, Canva, Figma, DaVinci Resolve 19 
+- 💡 **Creative Skills**: Storyboarding, Design Thinking, Idea Prototyping  
+- 📈 **Business Goals**: Building scalable ideas and content with impact
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YagnikPatel22&show_icons=true&theme=radical" alt="YagnikPatel22" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yagnik-n-patel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:yagnikptl22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail Badge" />
+  </a>
+  <a href="https://github.com/YagnikPatel22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub Badge" />
+  </a>
+  <a href="https://x.com/theiYags" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge" alt="X (Twitter) Badge" />
+  </a>
+</p>
+
+---
+
+*Thanks for visiting! I'm always open to collaboration, feedback, and building cool things together.*
+
+
