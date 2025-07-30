@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=550&lines=Hey+there+👋+I'm+Yagnik+Patel!;ICT+Engineer+%7C+DSA+Lover+%7C+Video+Editor;Aspiring+Entrepreneur+%7C+Creative+Thinker" alt="Yagnik Patel Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=550&lines=Hey+there+👋+I'm+Yagnik+Patel!;ICT+Engineer+%7Tech+Explorer+%7C+Video+Editor;Aspiring+Entrepreneur+%7C+Creative+Thinker" alt="Yagnik Patel Intro" />
 </p>
 
 <h3 align="center">ICT Engineering Student | Techy | Future Founder</h3>
