@@ -44,7 +44,7 @@
 - 🎬 **Editing Tools**: DaVinci Resolve, CapCut, VN  
 - 🧠 **Programming**: C, C++, STL, GitHub  
 - 🧰 **Creative Tools**: Figma, Canva, Notion  
-- 📌 **Workflow**: Idea ➜ Plan ➜ Code ➜ Polish ➜ Ship  
+- 📌 Workflow: Idea ⭢ Plan ⭢ Code ⭢ Polish ⭢ Ship  
 - 💡 **Focus**: Productivity, Minimalism, Value Creation
 
 ---
