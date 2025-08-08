@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 ICT Engineering student at **DAU (Formerly DA-IICT)**, Gandhinagar  
+- 🎓 ICT Engineering student at **Dhirubhai Ambani University (Formerly DA-IICT)**, Gandhinagar  
 - 🧩 Crafting logic-driven C++ apps like **Snake Game** & **Tetris**  
 - 🚀 Aspiring **Entrepreneur** with a vision to build real-world impact  
 - 🔧 Blending **Tech + Creativity + Business** for next-gen products
