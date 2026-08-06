@@ -49,14 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YagnikPatel22&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="Yagnik GitHub Stats" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
