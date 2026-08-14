@@ -21,7 +21,7 @@
 ### 🔍 Currently Exploring
 
 - 💻 **C, C++, DSA**, and algorithmic problem solving  
-- 🎥 **Video Editing** using DaVinci Resolve 19, CapCut, VN  
+- 🎥 **Video Editing** using DaVinci Resolve, CapCut, VN  
 - 📈 **Business mindset**, digital strategy, content building  
 - 🎨 **Creative direction**, storyboarding & visual branding
 
